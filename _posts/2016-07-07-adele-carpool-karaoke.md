@@ -17,10 +17,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Nck6BZga7TQ'
 title: Adele Carpool Karaoke
-datePublished: '2016-07-07T04:07:50.106Z'
-dateModified: '2016-07-07T03:56:35.723Z'
-starred: false
+datePublished: '2016-07-07T04:09:46.967Z'
+dateModified: '2016-07-07T04:09:46.675Z'
 sourcePath: _posts/2016-07-07-adele-carpool-karaoke.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
