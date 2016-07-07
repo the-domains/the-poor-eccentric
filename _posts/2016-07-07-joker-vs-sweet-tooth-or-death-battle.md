@@ -65,10 +65,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=OGqylsonGZY'
 title: Joker VS Sweet Tooth | DEATH BATTLE!
-datePublished: '2016-07-07T04:07:46.756Z'
-dateModified: '2016-07-07T03:57:37.960Z'
-starred: false
+datePublished: '2016-07-07T04:09:50.806Z'
+dateModified: '2016-07-07T04:09:50.483Z'
 sourcePath: _posts/2016-07-07-joker-vs-sweet-tooth-or-death-battle.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
