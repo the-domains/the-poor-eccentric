@@ -4,12 +4,12 @@ description: >-
   unique and personalized material for each of our clients. Our experience
   ranges from invitations for special events, to brochures and flyers, and also
   newspaper/magazine ads.
-dateModified: '2016-07-12T16:53:10.956Z'
-datePublished: '2016-07-12T16:54:07.532Z'
+dateModified: '2016-07-12T17:06:28.578Z'
+datePublished: '2016-07-12T17:06:28.831Z'
 title: Welcome to Creative Core Designs.
 author: []
-starred: false
 sourcePath: _posts/2016-07-12-welcome-to-creative-core-designs.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
