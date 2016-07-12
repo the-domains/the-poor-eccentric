@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Creative Core Designs]]></title>
         <description><![CDATA[Creative Core Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-poor-eccentric/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:06:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 17:12:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-poor-eccentric/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advertising Samples]]></title>
+            <description><![CDATA[<article><h1>Advertising Samples</h1><p>10" x 8" Newspaper Ad</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/216dc3badf467296b6adc366375ddca237e0235c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/47b3b792-902e-44bd-8194-301f79c653ed.jpg</link>
+            <guid isPermaLink="false">2cb1257a-bdaf-4519-94c3-21b38cce0100</guid>
+            <pubDate>Tue, 12 Jul 2016 17:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wedding Design Samples]]></title>
             <description><![CDATA[<article><h1>Wedding Design Samples</h1><p>5" x 7" Post-Wedding Reception Invitation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1621bfa82031deb3ca69aeb4e4d3f86adea61831.jpg"></article>]]></description>
